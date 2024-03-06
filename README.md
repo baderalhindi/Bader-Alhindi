@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bader Alhindi</h1>
 <h3 align="center">residing in Amman, Jordan. I am a dedicated student pursuing a Bachelor's degree in Artificial Intelligence at the Middle East University</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://assets.pinterest.com/ext/embed.html?id=952722496157596064.gif](https://i.pinimg.com/originals/15/0c/97/150c97d6a020a688a9a4c24132ebee91.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/15/0c/97/150c97d6a020a688a9a4c24132ebee91.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baderalhindi&label=Profile%20views&color=0e75b6&style=flat" alt="baderalhindi" /> </p>
 
