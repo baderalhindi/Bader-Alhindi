@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **baderayman43@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://assets.pinterest.com/ext/embed.html?id=952722496157596064.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/15/0c/97/150c97d6a020a688a9a4c24132ebee91.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
