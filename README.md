@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bader Alhindi</h1>
-<h3 align="center">residing in Amman, Jordan. I am a dedicated student pursuing a Bachelor's degree in Artificial Intelligence at the Middle East University</h3>
+<h3 align="center">Residing in Amman, Jordan. I am a dedicated student pursuing a Bachelor's degree in Artificial Intelligence at the Middle East University</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
